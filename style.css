@@ -9,9 +9,14 @@ body{
 
 p{
   color: red;
-  text-color: orange
+  text-color: orange;
+  font-size: 100px;
 }
 
 #banner{
   font-size: 50px;
+}
+
+.id{
+  border: 1px black dashed;
 }
