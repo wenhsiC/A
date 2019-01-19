@@ -1,22 +1,22 @@
-img{
+img {
   width: 500px;
   height: 500px;
 }
 
-body{
+body {
   background-color: Aquamarine;
 }
 
-p{
+p {
   color: red;
   text-color: orange;
   font-size: 100px;
 }
 
-#banner{
+#banner {
   font-size: 50px;
 }
 
-.id{
+.nlp {
   border: 1px black dashed;
 }
